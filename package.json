@@ -1,0 +1,17 @@
+{
+  "name": "ecommerce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "backend/server.js",
+  "scripts": {
+    "prod": "node backend/server.js",
+    "dev": "nodemon backend/server.js"
+  },
+  "author": "Dinesh Reddy",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^6.6.5"
+  }
+}

@@ -43,3 +43,7 @@ exports.getProductDetails = async (req, res) => {
     res.status(200).json({status: true, product});
   }
 }
+
+exports.dinesh = (req, res) =>{
+  res.status(200).json({status: true, message: "Hi Dinesh"})
+}

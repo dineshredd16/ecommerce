@@ -4,7 +4,7 @@
   "description": "",
   "main": "backend/server.js",
   "scripts": {
-    "master": "node backend/server.js",
+    "prod": "node backend/server.js",
     "dev": "nodemon backend/server.js"
   },
   "author": "Dinesh Reddy",

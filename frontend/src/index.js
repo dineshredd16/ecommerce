@@ -11,7 +11,7 @@ root.render(
     <Header />
     <Section />
     <Footer />
-    <Modal />
+    {/* <Modal /> */}
   </React.StrictMode>
 );
 
